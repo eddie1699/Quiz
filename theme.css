@@ -1,0 +1,22 @@
+body{
+    font-size: 20px;
+    color: #333;
+}
+.question{
+    font-weight: 600;
+}
+.answers {
+  margin-bottom: 20px;
+}
+.answers label{
+  display: block;
+}
+#submit{
+    font-size: 20px;
+    background-color: #279;
+    color: #fff;
+    
+}
+#submit:hover{
+    background-color: #38a;
+}
